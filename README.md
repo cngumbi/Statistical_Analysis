@@ -31,4 +31,4 @@ eg, pacman::p_load(pacman, bibliometrix, dplyr, GGally, ggplot2, ggthemes, ggvis
       
  # To specify the length of the loaded data
  the code to be used is options(max.print=lenth of the file)
- eg. options(max.print = 10000000) for our file int depends with yur file.
+ eg. options( max.print = 10000000 ) for our file int depends with yur file.
