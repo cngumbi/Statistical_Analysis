@@ -19,6 +19,7 @@ eg, pacman::p_load(pacman, bibliometrix, dplyr, GGally, ggplot2, ggthemes, ggvis
  To install a package in R studio use this code
  install.package("the name of package to be installed")
  eg. install.package("bibliometrix")
+
  
  # how to load the file in R studio 
  To load a manualy craeted bibliometrix  file in Rstudio us the following code
